@@ -8,7 +8,7 @@
 
 This is a football tournament prediction model created using ML. 
 
-Using Decision Tree Algorithm, we are predicted the number of goals each player will score in a football tournament season (38 games). 
+Using Decision Tree Algorithm, we have predicted the number of goals each player will score in a football tournament season (38 games). 
 We use features such as age, appearances, goals per match, etc. to predict the performance of each player.
 
 ## Working of the project
